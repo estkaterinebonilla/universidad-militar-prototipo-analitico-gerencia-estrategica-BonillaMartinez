@@ -1,4 +1,4 @@
-## Tabla de Priorización de Hipótesis
+## Tabla de Priorización de Hipotesis
 
 | Causa | Fase DT origen (E/D/I) | Insight de empatía | Supuesto central | Pregunta analítica | Variables (nombres exactos) | Tipo | Cálculo / Transformación | Métrica (nombre + fórmula) | Periodo / Segmento | Patrón esperado | Condición de refutación | Valor esperado para usuario/ciudadano | Riesgo si falsa | Acción si confirma | Acción si refuta | Experimento analítico mínimo | Estado |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
